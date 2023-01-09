@@ -68,12 +68,12 @@ crashlytics-build.properties
 /[Aa]ssets/*.meta
 /[Aa]ssets/Karting/*
 /[Aa]ssets/MediaRecorder/*
-/[Aa]ssets/ML_Agents/*
+/[Aa]ssets/ML-Agents/*
 /[Aa]ssets/Mod Assets/*
 /[Aa]ssets/PAIA/*
 /[Aa]ssets/PathCreator/*
 /[Aa]ssets/PickUps/*
-/[Aa]ssets/TextMeshPro/*
+/[Aa]ssets/TextMesh Pro/*
 /[Aa]ssets/Ultimate Replay 2.0/*
 
 /PAIA/autosave
