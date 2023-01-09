@@ -64,7 +64,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# Ignore all packages
+# All packages used in game
 /[Aa]ssets/*.meta
 /[Aa]ssets/Karting/*
 /[Aa]ssets/MediaRecorder/*
@@ -76,6 +76,7 @@ crashlytics-build.properties
 /[Aa]ssets/TextMesh Pro/*
 /[Aa]ssets/Ultimate Replay 2.0/*
 
+# Some large files
 /PAIA/autosave
 /PAIA/game
 /PAIA/Library
@@ -85,10 +86,3 @@ crashlytics-build.properties
 /PAIA/Packages
 /PAIA/ProjectSettings
 /PAIA/video
-
-# Packed Addressables
-# /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
-
-# Temporary auto-generated Android Assets
-# /[Aa]ssets/[Ss]treamingAssets/aa.meta
-# /[Aa]ssets/[Ss]treamingAssets/aa/*
