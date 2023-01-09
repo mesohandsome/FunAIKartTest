@@ -1,0 +1,8 @@
+mlagents==0.26.0
+torch
+numpy
+Pillow
+opencv-python
+paramiko
+ffmpeg-python
+python-dotenv
